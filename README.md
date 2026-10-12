@@ -49,4 +49,8 @@ All my leetcode work
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/0035-search-insert-position/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0058-length-of-last-word](https://github.com/shashankhegde555-debug/leetcode-cpp/tree/main/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
